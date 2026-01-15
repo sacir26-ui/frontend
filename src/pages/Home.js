@@ -24,7 +24,7 @@ const Home = () => {
                 <h2 className="opacity-90">Bike plans for employees.</h2>
                 <p className="opacity-90 mt-3 mb-4">
                   Veloretti Electrics benefit both the environment and the
-                  health of your employees. Oh, and they look good too.
+                  health of your employees Oh, and they look good too.
                   Cost-free for the employer and outside of the WKR.
                 </p>
                 <a href="#">Discover More</a>
